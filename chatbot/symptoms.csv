@@ -1,0 +1,97 @@
+symptom,triage
+Chest pain and shortness of breath,RED
+Unconscious with bleeding,RED
+Severe abdominal pain,RED
+Loss of vision in one eye,RED
+Slurred speech and arm weakness,RED
+Severe allergic reaction with swelling,RED
+High fever and confusion,RED
+Severe burn injury,RED
+Vomiting blood,RED
+Severe trauma or fracture,RED
+Seizure and unconsciousness,RED
+Breathing difficulty with wheezing,RED
+Sudden severe headache,RED
+Dizziness with fainting,RED
+Persistent chest tightness,RED
+Blood in urine with back pain,RED
+Intense migraine with aura,RED
+Swollen limbs with chest pain,RED
+Severe infection with chills,RED
+Heart palpitations with sweating,RED
+Persistent fever with rash,YELLOW
+Painful urination and back pain,YELLOW
+Joint swelling and morning stiffness,YELLOW
+Sore throat and difficulty swallowing,YELLOW
+Coughing blood,YELLOW
+Chronic fatigue with body ache,YELLOW
+Severe toothache with swelling,YELLOW
+Pain in ear with discharge,YELLOW
+Sudden weight loss with fatigue,YELLOW
+Abdominal bloating and cramping,YELLOW
+Chronic cough and chest congestion,YELLOW
+Skin rash and itching,YELLOW
+Sudden hearing loss,YELLOW
+Blurred vision and eye pain,YELLOW
+Painful menstruation with vomiting,YELLOW
+Burning sensation during urination,YELLOW
+Recurring nosebleeds,YELLOW
+Muscle weakness on one side,YELLOW
+Persistent nausea and indigestion,YELLOW
+Swollen lymph nodes with night sweats,YELLOW
+Back pain with numbness in legs,YELLOW
+Mild headache,GREEN
+Fatigue after long day,GREEN
+Runny nose and sneezing,GREEN
+Mild sore throat,GREEN
+Seasonal allergies,GREEN
+Itchy eyes,GREEN
+Low-grade fever,GREEN
+Minor skin rash,GREEN
+Mild cough without fever,GREEN
+Nasal congestion,GREEN
+Dry eyes from screen time,GREEN
+Mild bloating after eating,GREEN
+Minor joint stiffness,GREEN
+Occasional dizziness,GREEN
+Mild upset stomach,GREEN
+Headache from dehydration,GREEN
+Tiredness from lack of sleep,GREEN
+Mild body ache,GREEN
+Itchy skin with dryness,GREEN
+Dry lips and thirst,GREEN
+Eye strain after reading,GREEN
+Cracked heels,GREEN
+Mild constipation,GREEN
+Stomach gurgling,GREEN
+Sleepiness after heavy lunch,GREEN
+Sniffling and mild cough,GREEN
+Back stiffness in the morning,GREEN
+Sneezing in dusty area,GREEN
+Mild nausea during travel,GREEN
+Cramps after workout,GREEN
+Feeling hot in sun,GREEN
+Muscle soreness after gym,GREEN
+Slight chest discomfort after running,GREEN
+Mild shortness of breath after stairs,GREEN
+Slight ear discomfort in flight,GREEN
+Scratchy throat,GREEN
+Slight tooth sensitivity,GREEN
+Drowsiness after antihistamine,GREEN
+Itchy throat with dust exposure,GREEN
+Mild fever after vaccine,GREEN
+Yawning and mild fatigue,GREEN
+Dry skin in winter,GREEN
+Sore calves after hiking,GREEN
+Red eyes after swimming,GREEN
+Chapped hands from soap,GREEN
+Sunburn on shoulders,GREEN
+Minor insect bite,GREEN
+Mild diarrhea after spicy food,GREEN
+Slight dizziness after spinning,GREEN
+Tightness in legs after run,GREEN
+Fatigue after fasting,GREEN
+Dry mouth from medication,GREEN
+Nose dryness in winter,GREEN
+Teary eyes from wind,GREEN
+Shaky hands after caffeine,GREEN
